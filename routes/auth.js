@@ -124,6 +124,7 @@ router.get('/getUsers', async function (req, res) {
     // https://www.youtube.com/watch?v=rC1bunenaq4
 
     // https://github.com/AzureAD/azure-activedirectory-library-for-nodejs/blob/master/sample/client-credentials-sample.js
+    // https://github.com/microsoftgraph/nodejs-apponlytoken-rest-sample
   
   });
 
